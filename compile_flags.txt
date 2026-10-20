@@ -1,3 +1,6 @@
 -Iinclude
 -std=gnu89
 -Wno-everything
+-O3
+-march=armv8.2-a
+-mtune=cortex-a76
